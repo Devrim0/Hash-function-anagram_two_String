@@ -1,5 +1,5 @@
 
-public class hashpairsum {
+public class hashpairsum { //
     public static int hashsize=8;
 static int hashtablo[]=new int[hashsize];
 public static int Hash(int key){
